@@ -1,2 +1,2 @@
-# Software-design-pattern
-Project for software design pattern
+# Mastermind in C#
+Project with software design pattern
